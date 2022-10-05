@@ -1,0 +1,60 @@
+.body-bg {
+  background-color: lightgrey;
+}
+
+.btns-bg {
+  font-size: 25px;
+  height: 55px;
+  width: 100px;
+  margin: 4px;
+  padding: 0px;
+  margin-left: 0%;
+  margin-top: 0;
+  padding-left: 0%;
+  position: relative;
+  display: grid;
+  cursor: pointer;
+}
+
+.hm {
+  background-color: grey;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.green {
+  background-color: green;
+}
+
+.png-menu {
+  max-width: 120px;
+  max-height: 120px;
+  position: fixed;
+  display: inline-block;
+}
+
+.container {
+  width: 500px;
+  visibility: hidden;
+  overflow: hidden;
+  max-height: 1px;
+  border: 0;
+}
+
+.btn-menu {
+  display: block;
+  height: auto;
+  width: 500px;
+  max-width: 120px;
+  max-height: 120px;
+}/*# sourceMappingURL=style.css.map */
